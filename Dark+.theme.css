@@ -73,9 +73,10 @@
   color: var(--darkplus-sec);
 }
 .form-3gdLxP .channelTextArea-1FufC0 .scrollableContainer-15eg7h {
-  max-height: 30px;
+  max-height: 35px;
   background-color: var(--darkplus-bg2);
   border-radius: 22px;
+ margin-right:160px;
 }
 .form-3gdLxP .channelTextArea-1FufC0 {
   background-color: transparent;
